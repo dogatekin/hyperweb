@@ -1,0 +1,3 @@
+#app>div.page-container>ytm-browse>ytm-single-column-browse-results-renderer>div>div>ytm-tab-renderer>ytm-section-list-renderer>lazy-list>ytm-item-section-renderer:nth-child(2)>lazy-list>ytm-reel-shelf-renderer {
+  display: none;
+}
