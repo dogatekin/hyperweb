@@ -5,3 +5,7 @@
 grid-shelf-view-model.ytGridShelfViewModelHost {
     display: none;
 }
+
+ytm-reel-shelf-renderer {
+  display: none;
+}
