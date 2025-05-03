@@ -9,3 +9,7 @@ grid-shelf-view-model.ytGridShelfViewModelHost {
 ytm-reel-shelf-renderer {
   display: none;
 }
+
+ytm-rich-section-renderer {
+  display: none;
+}
