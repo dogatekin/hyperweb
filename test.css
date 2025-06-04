@@ -7,9 +7,13 @@ grid-shelf-view-model.ytGridShelfViewModelHost {
 }
 
 ytm-reel-shelf-renderer {
-  display: none;
+  display: none !important;
 }
 
 ytm-rich-section-renderer {
+  display: none;
+}
+
+#app > div > ytm-browse > ytm-single-column-browse-results-renderer > div > div > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:nth-child(2) > lazy-list > ytm-reel-shelf-renderer {
   display: none;
 }
