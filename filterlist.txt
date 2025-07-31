@@ -2,3 +2,4 @@
 
 m.youtube.com##ytm-reel-shelf-renderer
 m.youtube.com##grid-shelf-view-model
+m.youtube.com##.ytGridShelfViewModelHost
