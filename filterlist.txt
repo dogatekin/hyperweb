@@ -1,3 +1,4 @@
 [Adblock Plus 3.15]
 
 m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##grid-shelf-view-model
